@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 const contractAddress = "0xA081cB2813835f13F81c79A0D2300aE5D242fB64"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the MannyNFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The MannyNFT Projects is the coolest and most unique panda roaming the metaverse';
+=======
+const contractAddress = "0x64d10F2bcb94b8b53aad264E626869D506a8Af02"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
+
+const welcome_h1 = "Welcome to MANNY THE PANDA NFT Project!!";
+const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_p = 'The MANNY NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+>>>>>>> 315cc3e0ffa0bb85264827552d9d49c7f7bdc100
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
