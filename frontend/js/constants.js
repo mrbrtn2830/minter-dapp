@@ -1,7 +1,7 @@
 const contractAddress = "0x64d10F2bcb94b8b53aad264E626869D506a8Af02"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to MANNY THE PANDA NFT Project!!";
+const welcome_h1 = "Welcome to the MannyNFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Welcome to MANNYVERSE.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
